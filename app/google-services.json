@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339323063032",
+    "project_id": "thesis-50d8c",
+    "storage_bucket": "thesis-50d8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339323063032:android:66b16d4276a634d125490d",
+        "android_client_info": {
+          "package_name": "com.example.sagip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvu6xjQK2eUapljMzRf2hd36IT0GfF6AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
