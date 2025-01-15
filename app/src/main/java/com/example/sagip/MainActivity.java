@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
 
-        TextView text = findViewById(R.id.text);
+        TextView Hello = findViewById(R.id.text);
 
     }
 }
