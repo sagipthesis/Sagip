@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Sagip</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password*</string>
+    <string name="don_t_have_an_account_yet_sign_up">Don’t have an account yet? Sign up</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
 </resources>
